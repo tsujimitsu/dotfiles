@@ -1,4 +1,5 @@
 gs=git status
+gl=git log
 ga=git add $*
 gb=git branch $*
 gc=git commit $*
